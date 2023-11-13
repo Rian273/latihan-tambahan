@@ -1,0 +1,3 @@
+print("semangat")
+
+print("latihan")
