@@ -4,4 +4,6 @@ print("latihan")
 
 print("di kostan")
 
-print("hai")
+print("hai pagii")
+
+print("no 8")
